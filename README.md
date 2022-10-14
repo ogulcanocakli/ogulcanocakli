@@ -1,6 +1,8 @@
 
 ### Hi there 👋, I'm Oğulcan</h1>
 
+<p align="left"> <img src=" https://komarev.com/ghpvc/?username=ogulcanocakli&label=Profile%20views&color=0e75b6&style=flat" alt="ogulcanocakli" /> </p>
+
 <!--
 ### Hi there 👋, I'm Oğulcan</h1>
 ### Hi there 👋
